@@ -11,7 +11,7 @@ import SwiftUI
 struct handy0_2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
